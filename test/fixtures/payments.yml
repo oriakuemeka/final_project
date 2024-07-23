@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  order: one
+  payment_date: 2024-07-23 12:51:28
+  payment_method: MyString
+  payment_status: MyString
+  transaction_id: MyString
+  amount: 9.99
+
+two:
+  order: two
+  payment_date: 2024-07-23 12:51:28
+  payment_method: MyString
+  payment_status: MyString
+  transaction_id: MyString
+  amount: 9.99
